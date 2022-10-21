@@ -34,6 +34,7 @@ RUN apt-get update && \
       --enable-libvpx \
       --enable-libx264 \
       --enable-libx265 \
+      --enable-libaribb24 \
       --enable-omx \
       --enable-omx-rpi \
       --enable-nonfree \
